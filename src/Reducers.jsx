@@ -7,7 +7,6 @@ const initialStates = {
 export const auth = createReducer(initialStates,{
     login:(state,action)=>{
         state.logindata = action.payload;
-        state.cookie = action
     },
     logout:(state,action) => {
         state.user = null;
