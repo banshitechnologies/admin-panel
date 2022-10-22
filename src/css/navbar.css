@@ -1,0 +1,110 @@
+.background {
+    background-color: #3c9fda;
+    padding: 5px 0px;
+}
+
+.bars {
+    color: #fff;
+}
+
+.barDesigne {
+    padding: 8px;
+    margin: 10px;
+    line-height: 10px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+}
+
+.text-decoration-none {
+    text-decoration: none;
+}
+
+.right_menu li a {
+    font-size: 27px;
+    color: #ffff !important;
+}
+
+.right_menu li p .walletIcon {
+    font-size: 37px;
+    color: #fff;
+}
+
+.digits {
+    font-size: 14px;
+    color: #fff;
+    font-weight: 600;
+}
+
+.addmoney {
+    padding: 5px;
+}
+
+.dropDown {
+    width: 200px;
+    background-color: rgba(255, 255, 255, 0.812);
+    height: 200px;
+    position: absolute;
+    z-index: 9;
+    top: 90px;
+    right: 1%;
+    box-shadow: -2px 2px 11px -2px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: -2px 2px 11px -2px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -2px 2px 11px -2px rgba(0, 0, 0, 0.75);
+    border-radius: 5px;
+}
+
+.dropdownmain .icon {
+    margin-right: 10px;
+    margin-left: 10px;
+    font-size: 20px;
+    color: #3c9fda;
+}
+
+.dropdownmain li {
+    cursor: pointer;
+}
+
+.dropdownmain li:hover {
+    background-color: #1866b9;
+}
+
+.dropdownmain li:hover .icon {
+    color: #fff;
+}
+
+.dropdownmain li:hover .ditem {
+    color: #fff;
+}
+
+.adddropDown {
+    width: 250px;
+    background-color: white;
+    height: 300px;
+    position: absolute;
+    z-index: 9;
+    top: 90px;
+    right: 9%;
+}
+
+.dropdownmainadd h5 {
+    margin-left: 10px;
+    color: #1967ba;
+    font-size: 17px;
+    margin-top: 20px;
+    font-weight: 800;
+}
+
+.dropdownmainadd span {
+    margin-left: 64px;
+}
+
+.dropdownmainadd p {
+    margin-left: 10px;
+    text-align: justify;
+    margin-right: 10px;
+    margin-top: 17px;
+}
+
+.dropdownmainadd form {
+    margin-top: 10px;
+}
